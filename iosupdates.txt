@@ -1,0 +1,10 @@
+*.aaplimg.com
+*.cdn-apple.com
+albert.apple.com
+amd-infra.itunes.apple.com
+gdmf.apple.com
+iosapps.itunes.apple.com
+ocsp2.apple.com
+pancake.apple.com
+publicassets.cdn-apple.com
+swcdn.apple.com
