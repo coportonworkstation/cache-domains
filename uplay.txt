@@ -1,0 +1,2 @@
+*.cdn.ubi.com
+ubistatic3-a.akamaihd.net
