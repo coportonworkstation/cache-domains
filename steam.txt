@@ -1,0 +1,2 @@
+lancache.steamcontent.com
+*.steamcontent.com
