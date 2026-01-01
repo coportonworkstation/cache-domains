@@ -2,4 +2,3 @@
 *.downloadvn.com
 *.kku.ac.th
 *.me.gvt1.com
-*.tmdb.org
