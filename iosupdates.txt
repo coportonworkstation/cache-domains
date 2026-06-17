@@ -1,5 +1,5 @@
 *.aaplimg.com
-*.cdn-apple.com
+updates.cdn-apple.com
 albert.apple.com
 amd-infra.itunes.apple.com
 gdmf.apple.com
